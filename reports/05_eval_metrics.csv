@@ -1,0 +1,3 @@
+model,R2,MAPE,RMSE
+Baseline (Linear),-0.4303,0.1296,136950541.0073
+Regularized MMM (Ridge+Adstock+Sat),-0.6226,0.1402,155361690.0019

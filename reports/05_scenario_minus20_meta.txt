@@ -1,0 +1,5 @@
+budget_current: 17347.004567307693
+budget_target: 13877.603653846156
+pred_revenue_current: 17296948.229599044
+pred_revenue_optimized: 17296948.230179682
+uplift: 0.0005806386470794678
